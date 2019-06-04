@@ -17,16 +17,4 @@ namespace ProjetoFigura
         public Figura() { }
         public abstract double Area();
     }
-
-    //class Quadrado : Figura
-    //{
-    //    private double lado;
-
-    //    public double Lado { set => lado = value; }
-
-    //    public override double Area()
-    //    {
-    //        return lado * lado;
-    //    }
-    //}
 }
