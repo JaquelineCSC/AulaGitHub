@@ -14,7 +14,7 @@ namespace ProjetoFigura
 
         public override double Area()
         {
-           return 3.14 * Math.Pow(raio, 2);
+           return 3.1415 * Math.Pow(raio, 2);
         }
 
     }   
